@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mikioh/ipaddr"
+	"github.com/cpaillet/ipaddr"
 )
 
 func TestParse(t *testing.T) {

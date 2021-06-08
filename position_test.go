@@ -8,7 +8,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/mikioh/ipaddr"
+	"github.com/cpaillet/ipaddr"
 )
 
 func toPosition(s1, s2 string) *ipaddr.Position {

@@ -12,7 +12,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/mikioh/ipaddr"
+	"github.com/cpaillet/ipaddr"
 )
 
 type byAscending []ipaddr.Prefix

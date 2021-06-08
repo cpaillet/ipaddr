@@ -1,1 +1,3 @@
-module github.com/mikioh/ipaddr
+module github.com/cpaillet/ipaddr
+
+go 1.16

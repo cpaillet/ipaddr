@@ -9,7 +9,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/mikioh/ipaddr"
+	"github.com/cpaillet/ipaddr"
 )
 
 func ExampleCursor_traversal() {

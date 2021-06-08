@@ -9,7 +9,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/mikioh/ipaddr"
+	"github.com/cpaillet/ipaddr"
 )
 
 type prefixHeap []ipaddr.Prefix
